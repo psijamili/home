@@ -1,0 +1,77 @@
+{
+  "profissional": {
+    "nome": "Jamili Naely Ferreira",
+    "crp": "CRP 04/86598",
+    "especialidade": "Psicóloga de Adultos e Casais"
+  },
+  "navbar": {
+    "links": [
+      { "label": "Início", "href": "#inicio" },
+      { "label": "Diferencial", "href": "#diferencial" },
+      { "label": "Atendimento", "href": "#atendimento" },
+      { "label": "Perguntas frequentes", "href": "#faq" },
+      { "label": "Contato", "href": "#contato" }
+    ]
+  },
+  "hero": {
+    "saudacao": "Olá, sou Jamili Naely Ferreira",
+    "titulo": "Psicóloga de Adultos e Casais",
+    "texto": "Meu trabalho é oferecer um espaço acolhedor para que você possa compreender suas emoções, fortalecer sua autonomia e desenvolver estratégias de enfrentamento para lidar com os desafios da vida e deixar seus dias mais alinhados com seus valores.",
+    "frase": "Entender a si mesmo não significa ter todas as respostas, mas aprender a olhar para sua própria história com mais clareza e acolhimento.",
+    "cta": "Agendar uma sessão",
+    "imagem": "/images/hero.jpeg"
+  },
+  "diferencial": {
+    "titulo": "Qual meu diferencial?",
+    "texto": "Minha atuação é baseada principalmente nas terapias cognitivas e contextuais, abordagens que buscam compreender como pensamentos, emoções e comportamentos se relacionam. O objetivo não é eliminar emoções difíceis, mas desenvolver formas mais saudáveis de lidar com elas e construir uma vida alinhada aos seus valores.",
+    "formacao": "Pós-graduanda em Terapia do Esquema pela PUC-PR, com estudo contínuo em terapias cognitivas e contextuais.",
+    "imagem": "/images/diferencial.jpeg"
+  },
+  "atendimento": {
+    "titulo": "Como serão nossos encontros?",
+    "texto": "Realizo atendimentos psicológicos na modalidade online. As sessões acontecem por videochamada, o que permite que você cuide da sua saúde mental com mais praticidade e flexibilidade, estando onde se sentir mais confortável, sem abrir mão da qualidade do acompanhamento psicológico.",
+    "imagem": "/images/atendimento.jpeg"
+  },
+  "faq": {
+    "titulo": "Perguntas frequentes",
+    "perguntas": [
+      {
+        "pergunta": "Quanto tempo dura uma sessão?",
+        "resposta": "50 minutos por sessão."
+      },
+      {
+        "pergunta": "Atende por convênio?",
+        "resposta": "Atualmente, não realizo atendimentos diretamente por convênios. No entanto, muitos planos de saúde oferecem a modalidade de reembolso para atendimentos realizados com profissionais não credenciados. Nesses casos, após o pagamento da sessão, forneço a documentação necessária para que você solicite o reembolso junto à sua operadora de saúde. O valor restituído varia de acordo com as regras e a cobertura do seu plano."
+      },
+      {
+        "pergunta": "Como o atendimento online funciona?",
+        "resposta": "O atendimento é realizado por videochamada, em um ambiente seguro, sigiloso e preparado para garantir a privacidade e a qualidade do processo terapêutico. Após o agendamento, você receberá as orientações necessárias para acessar a sessão no dia e horário combinados. As consultas têm duração média de 50 minutos e acontecem em um espaço reservado, onde você possa se sentir confortável para conversar livremente."
+      },
+      {
+        "pergunta": "Como faço para agendar?",
+        "resposta": "Agendar sua sessão é simples. Basta entrar em contato pelo WhatsApp e enviar uma mensagem informando seu interesse no atendimento psicológico. Após o contato, conversaremos sobre sua disponibilidade, esclareceremos eventuais dúvidas sobre o processo terapêutico e encontraremos o melhor horário para o seu atendimento. Caso seja sua primeira experiência com terapia, não se preocupe: ficarei à disposição para explicar como funciona o acompanhamento psicológico e orientá-lo(a)."
+      },
+      {
+        "pergunta": "Tudo o que eu falar fica em sigilo?",
+        "resposta": "O sigilo profissional é um dos princípios fundamentais da Psicologia e um compromisso ético presente em todo o processo terapêutico. Tudo o que é compartilhado durante as sessões é tratado com respeito, responsabilidade e confidencialidade, buscando preservar sua privacidade e proporcionar um espaço seguro para o seu desenvolvimento. De acordo com o Código de Ética Profissional do Psicólogo, é dever da psicóloga resguardar o sigilo das informações obtidas durante o exercício profissional, protegendo a intimidade e a dignidade das pessoas atendidas. Isso significa que informações compartilhadas em sessão não são repassadas a familiares, amigos, parceiros, instituições ou outras pessoas sem autorização, salvo em situações excepcionais previstas em lei ou quando houver necessidade ética de proteção à vida e à integridade do próprio paciente ou de terceiros. Nesses casos, apenas as informações estritamente necessárias poderão ser compartilhadas. Nos atendimentos online, também são adotadas medidas para garantir a privacidade e a segurança das informações, respeitando as normas éticas da profissão e assegurando um ambiente adequado para o acompanhamento psicológico."
+      }
+    ]
+  },
+  "contato": {
+    "titulo": "Vamos conversar?",
+    "texto": "Dê o próximo passo para cuidar da sua saúde mental. Entre em contato e vamos encontrar o melhor horário para você.",
+    "whatsapp": {
+      "label": "Conversar no WhatsApp",
+      "link": "https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F%2B5512988662518%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaeoA474F53bQ_ST-Gi7XeN-DdZS50EIYUDaBTMswp7vNUUZoIDP3SkJMpJJYw_aem_3S9-8TEUIZjwc47FzNlXKg&e=AUDGH2FqOU9NFy4uKmIdNrESAG-OLnLhVS9gHiPwAE8_xUPbakJlm_alQ_Ae3TRyobL06HIJ8gwhP2pXuA7jAJqN3rKk8i1DcVH-vhea7EpIGFw86TNGoCjRHD0ngOxNICRNau8"
+    },
+    "instagram": {
+      "label": "@psijamili",
+      "link": "https://www.instagram.com/psijamili/"
+    },
+    "email": "psicojamicontato@gmail.com",
+    "git" : "https://github.com/pdrVenancio"
+  },
+  "footer": {
+    "texto": "Atendimento psicológico online para adultos e casais."
+  }
+}
