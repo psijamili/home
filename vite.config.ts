@@ -4,6 +4,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/psiJamili/',
+  // The repository is published as the GitHub Pages project site at /home/.
+  base: '/home/',
   plugins: [react(), tailwindcss()],
 })
