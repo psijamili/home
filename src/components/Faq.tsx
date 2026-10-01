@@ -1,4 +1,3 @@
-import Reveal from "./Reveal";
 import content from "../data/content.json";
 
 export default function Faq() {
@@ -6,7 +5,7 @@ export default function Faq() {
 
   return (
     <section id="faq" className="bg-dourado-claro/30 py-24">
-      <Reveal className="mx-auto max-w-3xl px-6">
+      <div className="mx-auto max-w-3xl px-6">
         <h2 className="font-display text-3xl leading-tight text-azul md:text-4xl">{titulo}</h2>
 
         <div className="mt-10 divide-y divide-azul/10">
@@ -17,7 +16,7 @@ export default function Faq() {
             </div>
           ))}
         </div>
-      </Reveal>
+      </div>
     </section>
   );
 }
